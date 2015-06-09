@@ -51,6 +51,8 @@ function showDeviceOrientation(serviceId) {
   str += '<input type="text" id="rotationAlpha" width="100%">';
   str += '<input type="text" id="rotationBeta" width="100%">';
   str += '<input type="text" id="rotationGamma" width="100%">';
+  str += 'SettingInterval<br>';
+  str += '<input type="text" id="settinginterval" width="100%">';
   str += 'Interval<br>';
   str += '<input type="text" id="interval" width="100%">';
   str += '</form>';
